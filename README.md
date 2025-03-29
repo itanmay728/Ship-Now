@@ -32,10 +32,10 @@ A modern and responsive food ordering web app that allows users to, view menus, 
   </tr>
   <tr >
     <td align="center">
-      <img src="ScreenShot/Mobile1.png" >
+      <img src="https://github.com/itanmay728/Ship-Now/blob/main/Screenshot/Mobile1.png" >
     </td>
     <td align="center">
-      <img src="ScreenShot/Mobile2.png" >
+      <img src="https://github.com/itanmay728/Ship-Now/blob/main/Screenshot/Mobile2.png" >
     </td>
   </tr>
 
@@ -45,15 +45,15 @@ A modern and responsive food ordering web app that allows users to, view menus, 
   </tr>
   <tr >
     <td align="center">
-      <img src="ScreenShot/Mobile3.png" >
+      <img src="https://github.com/itanmay728/Ship-Now/blob/main/Screenshot/Mobile3.png" >
     </td>
     <td align="center">
-      <img src="ScreenShot/Mobile4.png" >
+      <img src="https://github.com/itanmay728/Ship-Now/blob/main/Screenshot/Mobile4.png" >
     </td>
   </tr>
 </table>
 
-<p>----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>---------------------------------------------------------------------------------------------------------------------------------</p>
 <table align= "center" border="1" width="100%" cellspacing="0" cellpadding="10" >
   <tr>
     <th style="text-align:center;" colspan="2">Desktop View</th>
@@ -65,10 +65,10 @@ A modern and responsive food ordering web app that allows users to, view menus, 
   </tr>
   <tr >
     <td align="center">
-      <img src="ScreenShot/Desktop1.png" >
+      <img src="https://github.com/itanmay728/Ship-Now/blob/main/Screenshot/Desktop1.png" >
     </td>
     <td align="center">
-      <img src="ScreenShot/Desktop2.png" >
+      <img src="https://github.com/itanmay728/Ship-Now/blob/main/Screenshot/Desktop2.png" >
     </td>
   </tr>
 
@@ -78,10 +78,10 @@ A modern and responsive food ordering web app that allows users to, view menus, 
   </tr>
   <tr >
     <td align="center">
-      <img src="ScreenShot/Desktop3.png" >
+      <img src="https://github.com/itanmay728/Ship-Now/blob/main/Screenshot/Desktop3.png" >
     </td>
     <td align="center">
-      <img src="ScreenShot/Desktop4.png" >
+      <img src="https://github.com/itanmay728/Ship-Now/blob/main/Screenshot/Desktop4.png" >
     </td>
   </tr>
 </table>
